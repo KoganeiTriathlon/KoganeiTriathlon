@@ -1,4 +1,4 @@
-## 小金井市トライアスロン連合 平成29(2017)年度 総会  
+# 小金井市トライアスロン連合<br>　平成29(2017)年度 総会  
 ##### 本資料をPDFで保存する際は、下記リンクよりダウンロードしてください。
 https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kickoff_2017.md
 
@@ -10,7 +10,8 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
 　　　JR武蔵小金井駅南口より徒歩5分  
 　　　http://www.enjoytokyo.jp/life/spot/l_00019270/map.html  
 
----
+---  
+<p>
 
 ## 式次第  
 ### 司会進行  
