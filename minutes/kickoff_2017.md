@@ -112,9 +112,8 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
      + 作成計画(日程、種類、費用、etc.)   
      
    * 決定事項   
-     + ●●●とする。  
-      （特記事項等）  
-
+     + 可決/否決  
+       （特記事項等）  
 
 7. 次回のミーティング等開催について  
    * 議題  
@@ -128,7 +127,7 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
    * 第1回　05/15(日)　萌え木ホール   
    * 第2回　06/01(水)　マロンホール  
    * 第3回　06/26(日)　萌え木ホール   
-   * [第4回　07/10(日)　萌え木ホール](../../../../KoganeiAquathlon/blob/master/minutes/20160710.md "議事録を参照する。")   
+   * [第4回　07/10(日)　萌え木ホール](../../../../KoganeiAquathlon/blob/master/minutes/20160710.md "議事録を参照する。")   
    * 第5回　07/25(月)　ケーニッヒ(19:30～)   
    * [第6回　08/07(日)　萌え木ホール](../../../../KoganeiAquathlon/blob/master/minutes/20160807.md "議事録を参照する。")   
    * [第7回　09/04(日)　萌え木ホールＡ会議室](../../../../KoganeiAquathlon/blob/master/minutes/2016反省会.md "議事録を参照する。")   
