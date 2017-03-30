@@ -56,6 +56,8 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
 3. 第３号議案の審議    
    * 議題  
      + 平成29(2017)年度役員・組織（案）  
+       - [2017年体制案](../../../../KoganeiTriathlon/blob/master/members/2017.md "体制案を参照する。")
+
    * 決定事項  
      + 可決/否決  
        （特記事項等）  
