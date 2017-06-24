@@ -170,3 +170,9 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
    * 第5回　07/25(月)　ケーニッヒ(19:30～)   
    * [第6回　08/07(日)　萌え木ホール](../../../../KoganeiAquathlon/blob/master/minutes/20160807.md "議事録を参照する。")   
    * [第7回　09/04(日)　萌え木ホールＡ会議室](../../../../KoganeiAquathlon/blob/master/minutes/2016反省会.md "議事録を参照する。")   
+
+---
+
+【参考】  
+9. 今年度(平成28年度)の小金井アクアスロン実行委員会開催実績   
+  * [第1回　05/14(日)　前原暫定集会所(1F)](../../../../KoganeiAquathlon/blob/master/minutes/20170514.md "議事録を参照する。")   
