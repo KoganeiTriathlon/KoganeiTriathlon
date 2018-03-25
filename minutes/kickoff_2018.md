@@ -182,10 +182,10 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
 
 
 9. 昨年度(平成29年度)の小金井アクアスロン実行委員会開催実績   
-* [第1回　05/14(日)　前原暫定集会所(1F)](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170514.md "議事録を参照する。")   
-* [第2回　06/25(水)　前原暫定集会所B会議室](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170625.md "議事録を参照する。")  
-* [第3回　07/30(日)　前原暫定集会所B会議室](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170730.md "議事録を参照する。")   
-* [第4回　08/06(日)　前原暫定集会所C会議室](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170806.md "議事録を参照する。")   
-* [第5回　09/24(日)　前原暫定集会所](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170924.md "議事録を参照する。")   
+* [第1回　05/14(日)　前原暫定集会所(1F)](../../../../KoganeiAquathlon/blob/master/minutes/20170514.md "議事録を参照する。")   
+* [第2回　06/25(水)　前原暫定集会所B会議室](../../../../KoganeiAquathlon/blob/master/minutes/20170625.md "議事録を参照する。")  
+* [第3回　07/30(日)　前原暫定集会所B会議室](../../../../KoganeiAquathlon/blob/master/minutes/20170730.md "議事録を参照する。")   
+* [第4回　08/06(日)　前原暫定集会所C会議室](../../../../KoganeiAquathlon/blob/master/minutes/20170806.md "議事録を参照する。")   
+* [第5回　09/24(日)　前原暫定集会所](../../../../KoganeiAquathlon/blob/master/minutes/20170924.md "議事録を参照する。")   
    
    
