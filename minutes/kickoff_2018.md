@@ -56,9 +56,9 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
 3. 第３号議案の審議    
 * 議題  
   + 平成30(2018)年度役員・組織（案）  
-       [2018年体制案](../../../../KoganeiTriathlon/KoganeiTriathlon/blob/master/members/2018.md "体制案を参照する。") 
+       [2018年体制案](../../../../KoganeiTriathlon/blob/master/members/2018.md "体制案を参照する。") 
   + 連合規定について（案）  
-       [連合規定案](../../../../KoganeiTriathlon/KoganeiTriathlon/blob/master/regulations.md "今年度の規定の案を参照する。")  
+       [連合規定案](../../../../KoganeiTriathlon/blob/master/regulations.md "今年度の規定の案を参照する。")  
 
 * 決定事項  
   + 可決/否決  
@@ -163,7 +163,7 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
    - グループウェアのサイボウズLiveが、2019年4月15日をもってサービスを終了する。そのため代替サービスに移行する案として下記を先行利用している。  
 　　１）ファイル共有機能は、GoogleDriveで試行  
 　　（GoogleDrive）  
-　　https://drive.google.com/drive/folders/1Vfa7n6_ex-g7M9XNzGoACkgGjDWAYeq6?usp=sharing  
+　　
 　　※ 内部情報も取り扱うため、Googleアカウントに対してアクセス権を付与します。  
 　　２）チャット機能はSlackで試行  
 　　Webブラウザでアクセスする場合は下記へアクセスする。  
