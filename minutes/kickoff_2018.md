@@ -159,6 +159,17 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
   + 小金井アクアスロン競技中における子ども一時預かり[別紙](../../../../KoganeiAquathlon/blob/master/Proposal/20180323_KoganeiAquaKindergarten.md "提案内容別紙")について  
 * 決定事項   
 * 議題  
+  + これまで 利用していたグループウェア廃止に伴う移行について  
+   - グループウェアのサイボウズLiveが、2019年4月15日をもってサービスを終了する。そのため代替サービスに移行する案として下記を先行利用している。  
+　　１）ファイル共有機能は、GoogleDriveで試行  
+　　（GoogleDrive）  
+　　https://drive.google.com/drive/folders/1Vfa7n6_ex-g7M9XNzGoACkgGjDWAYeq6?usp=sharing  
+　　※ 内部情報も取り扱うため、Googleアカウントに対してアクセス権を付与します。  
+　　２）チャット機能はSlackで試行  
+　　Webブラウザでアクセスする場合は下記へアクセスする。  
+　　https://koganei-triathlon.slack.com/  
+　　スマホアプリを利用することも可。  
+
 * 決定事項   
   + ●●を行うこと  
 
@@ -175,6 +186,6 @@ https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kicko
 * [第2回　06/25(水)　前原暫定集会所B会議室](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170625.md "議事録を参照する。")  
 * [第3回　07/30(日)　前原暫定集会所B会議室](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170730.md "議事録を参照する。")   
 * [第4回　08/06(日)　前原暫定集会所C会議室](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170806.md "議事録を参照する。")   
-* [第6回　09/24(日)　前原暫定集会所](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170924.md "議事録を参照する。")   
+* [第5回　09/24(日)　前原暫定集会所](../../../../KoganeiTriathlon/KoganeiAquathlon/blob/master/minutes/20170924.md "議事録を参照する。")   
    
    
