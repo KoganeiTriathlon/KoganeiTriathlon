@@ -1,7 +1,5 @@
 # 小金井市トライアスロン連合  
 　令和2(2020)年度 総会  
-##### 本資料をPDFで保存する際は、下記リンクよりダウンロードしてください。
-https://gitprint.com/KoganeiTriathlon/KoganeiTriathlon/blob/master/minutes/kickoff_2020.md
 
 ---
 
